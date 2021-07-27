@@ -17,5 +17,3 @@
 
 * ___Skomolkina@gmail.com___ 
 * ___@SKkomolkina telegram___ 
-***
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKKomolkina)](https://github.com/SKKomolkina/)
