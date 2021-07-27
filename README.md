@@ -1,4 +1,4 @@
-    Header
+    [![Header](https://github.com/SKKomolkina/SKKomolkina/blob/main/assets/tenor.gif)]
 
     About me
 
