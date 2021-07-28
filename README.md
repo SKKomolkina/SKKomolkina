@@ -15,5 +15,5 @@
 ***
 ### ___<span style="color: #9d299a">Связаться:</span>___ 
 
-___telegram @SKkomolkina___
-___skomolkina@gmail.com___
+* ___telegram @SKkomolkina___
+* ___skomolkina@gmail.com___
