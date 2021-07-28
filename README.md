@@ -1,4 +1,3 @@
-![Header](./assets/Logo3.png)
 ### ___<span style="color: #9d299a">Обо мне</span>___
 
 
@@ -15,5 +14,6 @@
 ***
 ### ___<span style="color: #9d299a">Связаться:</span>___ 
 
-* ___Skomolkina@gmail.com___ 
-* ___@SKkomolkina telegram___ 
+
+[![telegram](./assets/telegram.svg "skkomolkina")](@SKkomolkina) 
+[![mail](./assets/gmail.svg "skomolkina@gmail.com")](skomolkina@gmail.com)
