@@ -1,6 +1,4 @@
-![Header](./assets/icons8-cat-40.png)
-### ___<span style="color: #9d299a">Обо мне</span>___
-
+### ___Обо мне___
 
 * _Привет, меня зовут Соня, я начинающий frontend-разработчик_  👋
 * _Учусь в Яндекс.Практикуме_ 📚
@@ -10,21 +8,31 @@
 * _Участвовала в хакатоне по созданию сайта благотворительной организации "Старшие братья Старшие Сестры". Из 43 команд - наша вошла в тройку лидеров. Хоть наш проект и не победил, я получила огромный опыт в командной работе, принятии решений в краткие сроки и распределении задач._ 
 
 ***
-### ___<span style="color: #9d299a">Стек технологий:</span>___ 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+### ___Стек технологий:___ 
+<div style="display: flex; align-items: center; justify-content: space-between; width: 210px; margin-top: 10px">
+<img src="https://img.icons8.com/dusk/42/000000/html-5.png" /><img src="https://img.icons8.com/dusk/42/000000/css3.png"/><img src="https://img.icons8.com/dusk/42/000000/javascript.png" />
+<img src="https://img.icons8.com/plasticine/48/000000/react.png"/> 
+</div>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+<div style="display: flex; align-items: center; justify-content: space-between; width: 180px; margin-top: 10px">
+<img src="https://img.icons8.com/color/48/000000/npm.png" width="48" height="48"/> 
+<img src="https://img.icons8.com/windows/52/000000/nodejs.png"/>
+<img height="48" src="./assets/express-js-seeklogo.com.svg" width="48"/>
+</div>
 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100px; margin-top: 10px">
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+</div>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100px; margin-top: 10px">
+<img src="https://img.icons8.com/dusk/48/000000/webpack.png"/>
+<img src="https://img.icons8.com/windows/48/000000/git.png"/>
+</div>
 
 ***
-### ___<span style="color: #9d299a">Связаться:</span>___ 
+### ___Связаться:___ 
 
-* ___telegram @SKkomolkina___
-* ___skomolkina@gmail.com___
+telegram **@SKkomolkina**
+
+**Skomolkina@gmail.com**
+
