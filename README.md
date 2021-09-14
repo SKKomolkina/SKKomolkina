@@ -32,9 +32,7 @@
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center; margin-top: 10px">
-<img style="margin-right: 15px" src="https://img.icons8.com/dusk/48/000000/webpack.png"/>
-<img src="https://img.icons8.com/windows/48/000000/git.png"/>
+<div style="display: flex; align-items: center; justify-content: center; margin-top: 10px"> <img style="margin-right: 15px" src="https://img.icons8.com/dusk/48/000000/webpack.png"/> <img src="https://img.icons8.com/windows/48/000000/git.png"/>
 </div>
 
 ***
