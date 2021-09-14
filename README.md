@@ -37,7 +37,9 @@
 ***
 ## Связаться:
 
-telegram **@SKkomolkina**
+* <img src="https://img.icons8.com/color/46/000000/telegram-app--v1.png"/> 
+**@SKkomolkina**
 
+* <img src="https://img.icons8.com/bubbles/52/000000/apple-mail.png"/>
 **Skomolkina@gmail.com**
 
